@@ -1,7 +1,7 @@
 # **Healthcare Insights Dashboard - Power BI**  
 
 ## **Overview**  
-This project leverages **Power BI** to analyze **hospital operations, patient demographics, treatment costs, and recovery outcomes** for **1,000 patients across 5 hospitals**. The interactive dashboard uncovers key **cost-saving strategies, treatment effectiveness trends, and resource allocation insights**, empowering **hospitals to enhance patient care while improving financial efficiency**.  
+This project leverages **Power BI** to analyze **hospital operations, patient demographics, treatment costs, and recovery outcomes** for **1,000 patients across 5 hospitals**. The interactive dashboard uncovers key **cost-saving strategies, treatment effectiveness trends, and resource allocation insights**, empowering **hospitals to enhance patient care while improving financial efficiency**.   
 
 ## **Key Learnings & Insights**  
 Through this analysis, we discovered:  
